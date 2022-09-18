@@ -15,7 +15,7 @@ fi
 
 CRCsum="3561901184"
 MD5="207b828928263e6d88d637a290bde362"
-TMPROOT=${TMPDIR:=/home/cpanel/cPanelInstall}
+TMPROOT=${TMPDIR:=/home/aditya/cpanel/cPanelInstall}
 
 label="cPanel & WHM Installer"
 script="./bootstrap"
